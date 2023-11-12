@@ -3,3 +3,4 @@ I used stack overflow to understand the code required to create a single line da
 
 https://stackoverflow.com/questions/45504241/create-single-row-python-pandas-dataframe
 
+In the school summary section I used ChatGPT to find the code necessary to rename the axis of my dataframe. 
